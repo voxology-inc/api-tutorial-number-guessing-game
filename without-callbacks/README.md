@@ -235,6 +235,6 @@ This endpoint's purpose, as described above, is to handle responding to the call
 - If the guess was too high, we tell the user that their guess was too high and then prompt them to guess again, passing along the `session_data` as we do so.
 - If the guess was too low, we tell the user that their guess was too low and then prompt them to guess again, passing along the `session_data` as we do so.
 
-Congratulations! You should now have a system that asks your caller whether or not they would like to participate in your game and leads them through an entire number guessing game before congratulating them! We hope you enjoyed this tutorial and can't wait to see what you make possible with the LiveIVRs platform.
+Congratulations! You should now have a system that asks your caller whether or not they would like to participate in your game and leads them through an entire number guessing game before congratulating them! We hope you enjoyed this tutorial and can't wait to see what you make possible with the CallFlows platform.
 
 Please compare your code to the code provided to make sure that they are identical.
